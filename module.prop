@@ -1,0 +1,6 @@
+id=fstrim+
+name=fstrim+
+version=1
+versionCode=1
+author=ggeo15
+description=optimize storage with fstrim when clicking magisk action button 
