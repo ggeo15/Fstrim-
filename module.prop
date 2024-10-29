@@ -3,4 +3,4 @@ name=fstrim+
 version=1
 versionCode=1
 author=ggeo15
-description=optimize storage with fstrim when clicking magisk action button 
+description=This Magisk module optimizes your Android device's internal storage by clicking the magisk v28 action button and periodically running the fstrim command on multiple partitions. fstrim helps free up unused memory blocks, maintaining system performance over time.
