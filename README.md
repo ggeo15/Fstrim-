@@ -9,3 +9,7 @@ Run fstrim on the main partitions, including /data, /cache, /system, and /vendor
 # Notice:
 
 Use with caution, as fstrim directly modifies storage. Recommended for users who want to improve system performance and have experience with flash storage. 
+
+# Use:
+
+magisk v28 + busybox or brutal busybox 
